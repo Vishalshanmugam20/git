@@ -1,3 +1,3 @@
-#GIT
+# GIT
 GIT
-#this is change in bug
+## this is change in bug
