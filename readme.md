@@ -1,3 +1,9 @@
 # GIT
 GIT
-## this is change in bug
+<<<<<<< HEAD
+
+=======
+# this is change from feature branch
+## this is feature2.0
+## this is change from bug branch
+>>>>>>> main
