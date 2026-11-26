@@ -6,4 +6,8 @@ GIT
 
 # commit 1
 
+<<<<<<< Updated upstream
 # priority task - complete & closed
+=======
+# Non priority task - not completed & WIP
+>>>>>>> Stashed changes
